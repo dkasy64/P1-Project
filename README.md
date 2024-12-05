@@ -1,2 +1,3 @@
 # P1-Project
-stuff
+## CSC 215 Algorithms analysis
+GitHub Repo for Programming-Skill-P1
